@@ -1,0 +1,31 @@
+.appbar {
+    background-color: #2FA1C6;
+    color: #ffffff;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.logo {
+    height: 30px;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    cursor: pointer;
+}
+
+.menuIcon {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    cursor: pointer;
+}
+
+.modal {
+    color: #ffffff;
+}
