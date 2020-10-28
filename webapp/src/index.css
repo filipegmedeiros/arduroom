@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  margin: 0;
+  font-family: "Changa", sans-serif;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 100%;
+  margin: 10px
+}
+
+.subtitle {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 100%;  
+  margin: 10px
+}
+
+.text {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 100%;
+  margin: 10px
+}
